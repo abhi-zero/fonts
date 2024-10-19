@@ -1,7 +1,7 @@
+# fonts copy `@face-font`
 ##navigation
 -INTER
 
-# fonts copy `@face-font`
 ## INTER 
 ```/* inter-100 - latin */
 @font-face {
