@@ -6,13 +6,13 @@
 ## INTER 
 ```/* inter-100 - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-display: swap; 
   font-family: 'Inter';
   font-style: normal;
   font-weight: 100;
-  src: url('https://selffonts.netlify.app/fonts/inter-v18-latininter-v18-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('https://selffonts.netlify.app/fonts/inter-v18-latininter-v18-latin-100.woff2') 
 }
-/* inter-100italic - latin */
+### inter-100italic - latin 
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Inter';
