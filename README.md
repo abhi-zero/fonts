@@ -1,8 +1,9 @@
 # fonts copy `@face-font`
-##navigation
--INTER
 
-## INTER 
+##navigation
+[INTER](##INTER)
+
+##INTER 
 ```/* inter-100 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
