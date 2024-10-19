@@ -1,7 +1,6 @@
 #  copy `@font-face`
 
-## 1 Big-shoulders-display
-
+# 1 Big-shoulders-display
 ### big-shoulders-display-100 - latin 
 ```
 @font-face {
@@ -101,9 +100,8 @@
 }
 ```
 
-## 2 Figtree
-
-/* figtree-300 - latin */
+# 2 Figtree
+### figtree-300 - latin 
 ```
 @font-face {
   font-display: swap; 
@@ -114,7 +112,7 @@
 }
 ```
 
-/* figtree-300italic - latin */
+### figtree-300italic - latin 
 ```
 @font-face {
   font-display: swap;
@@ -125,7 +123,7 @@
 }
 ```
 
-/* figtree-regular - latin */
+### figtree-regular - latin 
 ```
 @font-face {
   font-display: swap; 
@@ -136,7 +134,7 @@
 }
 ```
 
-/* figtree-italic - latin */
+### figtree-italic - latin 
 ```
 @font-face {
   font-display: swap; 
@@ -257,7 +255,7 @@
 ```
 
 
-## INTER 
+# INTER 
 ### inter-100 - latin ##
 ```
 @font-face {
