@@ -1,10 +1,5 @@
 # fonts copy `@face-font`
 
-## navigation
-[INTER](##INTER)
-
--[inter500](##inter-500-latin )
-
 ## INTER 
 ### inter-100 - latin ##
 ```
@@ -87,7 +82,7 @@
   src: url('https://selffonts.netlify.app/fonts/inter-v18-latininter-v18-latin-italic.woff2') format('woff2'); 
 }
 ```
-###inter-500-latin 
+### inter-500 - latin 
 ```
 @font-face {
   font-display: swap; 
