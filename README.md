@@ -8,8 +8,8 @@
 
 - [Inter](./inter-v18-latin/font-face.md)
 
-- [Kumbh Sans](./kumbh-sans-v22-latin/)
+- [Kumbh Sans](./kumbh-sans-v22-latin/font-face.md)
 
-- [League Spartan](./league-spartan-v11-latin/)
+- [League Spartan](./league-spartan-v11-latin/font-face.md)
 
 - [Lexend Deca](./lexend-deca-v21-latin/font-face.md)
