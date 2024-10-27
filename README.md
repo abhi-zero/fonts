@@ -15,3 +15,16 @@
 - [League Spartan](./league-spartan-v11-latin/font-face.md)
 
 - [Lexend Deca](./lexend-deca-v21-latin/font-face.md)
+
+- [Manrope](./manrope-v15-latin/font-face.md)
+
+- [Merriweather Sans](./merriweather-sans-v26-latin/font-face.md)
+
+- [Merriweather](./merriweather-v30-latin/font-face.md)
+
+- [Outfit](./outfit-v11-latin/font-face.md)
+
+- [Poppins](./poppins-v21-latin/font-face.md)
+
+- [Roboto](./roboto-v32-latin/)
+
