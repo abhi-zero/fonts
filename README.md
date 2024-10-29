@@ -22,6 +22,8 @@
 
 - [Merriweather](./merriweather-v30-latin/font-face.md)
 
+-[Open Sans](./open-sans-v40-latin/font-face.md)
+
 - [Outfit](./outfit-v11-latin/font-face.md)
 
 - [Poppins](./poppins-v21-latin/font-face.md)
