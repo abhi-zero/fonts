@@ -8,6 +8,8 @@
 
 - [Inter](./inter-v18-latin/font-face.md)
 
+- [Josefin Sans](./josefin-sans-v32-latin/font-face.md)
+
 - [Karla](./karla-v31-latin/font-face.md)
 
 - [Kumbh Sans](./kumbh-sans-v22-latin/font-face.md)
