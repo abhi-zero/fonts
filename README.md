@@ -32,5 +32,7 @@
 
 - [Roboto](./roboto-v32-latin/font-face.md)
 
+- [Rubik](./rubik-v28-latin/font-face.md)
+
 - [Work Sans](./work-sans-v19-latin/font-face.md)
 
