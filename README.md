@@ -18,6 +18,8 @@
 
 - [Lexend Deca](./lexend-deca-v21-latin/font-face.md)
 
+- [Libre Franklin](./libre-franklin-v18-latin/font-face.md)
+
 - [Manrope](./manrope-v15-latin/font-face.md)
 
 - [Merriweather Sans](./merriweather-sans-v26-latin/font-face.md)
