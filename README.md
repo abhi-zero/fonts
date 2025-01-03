@@ -6,6 +6,8 @@
 
 - [Fraunces](./fraunces-v31-latin/font-face.md)
 
+- [Inconsolata](./inconsolata-v32-latin/font-face.md)  ****New****
+
 - [Inter](./inter-v18-latin/font-face.md)
 
 - [Josefin Sans](./josefin-sans-v32-latin/font-face.md)
