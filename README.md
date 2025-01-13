@@ -2,11 +2,13 @@
 
 - [Big shoulders display](./big-shoulders-display-v21-latin/font-face.md)
 
+- [Dm sans](./dm-sans-v15-latin/font-face.md)   ****New****
+
 - [Fig Tree](./figtree-v6-latin/font-face.md)
 
 - [Fraunces](./fraunces-v31-latin/font-face.md)
 
-- [Inconsolata](./inconsolata-v32-latin/font-face.md)  ****New****
+- [Inconsolata](./inconsolata-v32-latin/font-face.md)  
 
 - [Inter](./inter-v18-latin/font-face.md)
 
