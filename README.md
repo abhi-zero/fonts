@@ -2,7 +2,7 @@
 
 - [Big shoulders display](./big-shoulders-display-v21-latin/font-face.md)
 
-- [Dm sans](./dm-sans-v15-latin/font-face.md)   ****New****
+- [Dm sans](./dm-sans-v15-latin/font-face.md)   
 
 - [Fig Tree](./figtree-v6-latin/font-face.md)
 
@@ -37,6 +37,8 @@
 - [Overpass](./overpass-v16-latin/font-face.md)
 
 - [Poppins](./poppins-v21-latin/font-face.md)
+
+- [Red hat text](./red-hat-text-v18-latin/font-face.md)****New****
 
 - [Roboto](./roboto-v32-latin/font-face.md)
 
