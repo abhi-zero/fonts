@@ -32,13 +32,15 @@
 
 - [Open Sans](./open-sans-v40-latin/font-face.md)
 
+- [Orbitron](./orbitron-v31-latin/font-face.md)   ****New****
+
 - [Outfit](./outfit-v11-latin/font-face.md)
 
 - [Overpass](./overpass-v16-latin/font-face.md)
 
 - [Poppins](./poppins-v21-latin/font-face.md)
 
-- [Red hat text](./red-hat-text-v18-latin/font-face.md)****New****
+- [Red hat text](./red-hat-text-v18-latin/font-face.md)
 
 - [Roboto](./roboto-v32-latin/font-face.md)
 
