@@ -32,7 +32,7 @@
 
 - [Open Sans](./open-sans-v40-latin/font-face.md)
 
-- [Orbitron](./orbitron-v31-latin/font-face.md)   ****New****
+- [Orbitron](./orbitron-v31-latin/font-face.md)   
 
 - [Outfit](./outfit-v11-latin/font-face.md)
 
@@ -45,6 +45,8 @@
 - [Roboto](./roboto-v32-latin/font-face.md)
 
 - [Rubik](./rubik-v28-latin/font-face.md)
+
+- [Space Mono](./space-mono-v15-latin/font-face.md)     ****New****
 
 - [Work Sans](./work-sans-v19-latin/font-face.md)
 
