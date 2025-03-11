@@ -38,6 +38,8 @@
 
 - [Overpass](./overpass-v16-latin/font-face.md)
 
+-[Plus Jakarta Sans](./plus-jakarta-sans-v8-latin/font-face.md)
+
 - [Poppins](./poppins-v21-latin/font-face.md)
 
 - [Red hat text](./red-hat-text-v18-latin/font-face.md)
