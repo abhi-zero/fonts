@@ -38,7 +38,7 @@
 
 - [Overpass](./overpass-v16-latin/font-face.md)
 
--[Plus Jakarta Sans](./plus-jakarta-sans-v8-latin/font-face.md)
+- [Plus Jakarta Sans](./plus-jakarta-sans-v8-latin/font-face.md)   ****New****
 
 - [Poppins](./poppins-v21-latin/font-face.md)
 
@@ -48,7 +48,7 @@
 
 - [Rubik](./rubik-v28-latin/font-face.md)
 
-- [Space Mono](./space-mono-v15-latin/font-face.md)     ****New****
+- [Space Mono](./space-mono-v15-latin/font-face.md)    
 
 - [Work Sans](./work-sans-v19-latin/font-face.md)
 
